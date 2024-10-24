@@ -14,7 +14,7 @@ export function Summary() {
             <div className="flex items-center justify-between">
                 <div className="flex items-center gap-3">
                     <InOrbitIcon />
-                    <span className="text-lg font-semibold">5 a 10 de Novembro</span>
+                    <span className="text-lg font-semibold">20 a 26 de Novembro</span>
                 </div>
 
                 <DialogTrigger asChild>
@@ -59,7 +59,7 @@ export function Summary() {
 
                     <div className="flex flex-col gap-4">
                         <h3 className="font-medium">Domingo{' '} 
-                            <span className="text-zinc-400 text-xs">(10 de Novembro)</span>
+                            <span className="text-zinc-400 text-xs">(20 de Outubro)</span>
                         </h3>
 
                         <ul className="flex flex-col gap-3">
@@ -91,7 +91,7 @@ export function Summary() {
 
                     <div className="flex flex-col gap-4">
                         <h3 className="font-medium">Segunda{' '} 
-                            <span className="text-zinc-400 text-xs">(11 de Novembro)</span>
+                            <span className="text-zinc-400 text-xs">(21 de Outubro)</span>
                         </h3>
 
                         <ul className="flex flex-col gap-3">
